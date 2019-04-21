@@ -1,0 +1,21 @@
+{
+  "name": "cs260r-final",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx chokidar 'readme.md' -c 'make -B'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjamin-Lee/cs260r-final.git"
+  },
+  "author": "Benjamin Lee",
+  "bugs": {
+    "url": "https://github.com/Benjamin-Lee/cs260r-final/issues"
+  },
+  "homepage": "https://github.com/Benjamin-Lee/cs260r-final#readme",
+  "devDependencies": {
+    "chokidar-cli": "^1.2.2"
+  },
+  "dependencies": {}
+}
